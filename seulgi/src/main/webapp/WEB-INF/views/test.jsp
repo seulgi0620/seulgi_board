@@ -4,7 +4,7 @@
 <html>
 <head>
 	<title>kuzuro 게시판</title>
-	 
+	  
 	<!-- 제이쿼리 -->
 	<script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
 		
